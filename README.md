@@ -1,1 +1,1 @@
-# free-QR-code-generator
+# pacman 
